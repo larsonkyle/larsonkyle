@@ -12,4 +12,6 @@ I'm Kyle Larson, I'm currently a CS student at SaddlebackCollege.
 ---
 [![](https://visitcount.itsvg.in/api?id=larsonkyle&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/larsonkyle/larsonkyle/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
